@@ -1,0 +1,21 @@
+# elastic search
+
+elastic_username = "elastic"
+elastic_password = "-Ld=191cev2Er-Yn=yRH" #"Xb1oZBB0gbLWW2qx3JtK"
+elastic_url = 'https://127.0.0.1:9200' #"https://20.244.17.73:9200"
+
+#mongo url
+
+mongo_uri = "mongodb+srv://digiverz:digiverz@cluster0.ngqcelw.mongodb.net/?retryWrites=true&w=majority"
+
+#mail 
+
+email = "invoiceexpenseclaim@gmail.com"
+mail_pass = "nzkzyzfepdojqtax"
+
+#hdfs
+    
+hdfsuser = "hdfs"
+hdfshost = "13.115.35.76"
+hdfsport = "9870"
+hdfspath = "user/usecases/ocr"
