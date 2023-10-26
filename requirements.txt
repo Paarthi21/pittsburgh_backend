@@ -54,3 +54,4 @@ pywebhdfs
 imutils
 easyocr
 ultralytics
+Levenshtein
